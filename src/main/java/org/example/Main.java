@@ -5,6 +5,6 @@ public class Main {
 
         System.out.println("Hello Team 3!");
 
-        System.out.println("Hello Team 3 Reem is here! ");
+        System.out.println("Hello Team 3 Reem is here!");
     }
 }
